@@ -1,7 +1,7 @@
 Tamagotchi
 
 This is your virtual pet! 
-You can decide which name they should have and what type of animal they are.
+You can decide which name they should take and what type of animal they are.
 Also, you can:
 - feed them,
 - play with them,

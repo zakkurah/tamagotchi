@@ -1,6 +1,6 @@
 Tamagotchi
 
-This is your virtual pet! 
+This is your virtual pet! ✧▽✧
 
 You can decide which name they should take and what type of animal they are.
 

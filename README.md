@@ -12,4 +12,4 @@ Also, you can:
 
 Always remember to take good care of them, or something unfortunate will happen...
 
-So have much fun with your Tamagotchi!!
+So have much fun with your Tamagotchi!! (♡˙︶˙♡)
